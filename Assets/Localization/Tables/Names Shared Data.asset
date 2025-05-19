@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Names Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Names
+  m_TableCollectionNameGuidString: d7bc03a793232df448073a8e7295c9c4
+  m_Entries:
+  - m_Id: 2651598761984
+    m_Key: man1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2695269855232
+    m_Key: man2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2743630180352
+    m_Key: woman1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2786336583680
+    m_Key: woman2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2989106016256
+    m_Key: ak47
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3431043051520
+    m_Key: crossbow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3497787011072
+    m_Key: bazooka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3531391774720
+    m_Key: desertEagle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3568490393600
+    m_Key: m16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3592200794112
+    m_Key: m40
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3634013810688
+    m_Key: revolver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3674954412032
+    m_Key: shotgun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3708307517440
+    m_Key: vector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8896212774912
+    m_Key: bigSword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9080690847744
+    m_Key: dragunov
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9286979301376
+    m_Key: axe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9333917757440
+    m_Key: glaive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9374300516352
+    m_Key: hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9421402550272
+    m_Key: katana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9451689619456
+    m_Key: knife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9491275460608
+    m_Key: longSword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9539421876224
+    m_Key: morningStar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9598284738560
+    m_Key: scythe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9659005677568
+    m_Key: swordOfSun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317513935761408
+    m_Key: snack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317568839200768
+    m_Key: teddyBear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317611893731328
+    m_Key: warmMittens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317687370231808
+    m_Key: metalShield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317698782932992
+    m_Key: lipstick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317751090098176
+    m_Key: rollers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317767959588864
+    m_Key: hardArmor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317796191449088
+    m_Key: blackBelt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317841536069632
+    m_Key: snail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317854962036736
+    m_Key: brokenHeart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317894824701952
+    m_Key: rabbitsFoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317902152151040
+    m_Key: coolGlasses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317915485843456
+    m_Key: sweetApple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317928555294720
+    m_Key: battery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317941981261824
+    m_Key: frizzyHair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317959203074048
+    m_Key: wingedShoes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317975305007104
+    m_Key: syringe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317990261895168
+    m_Key: hotSauce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318004912599040
+    m_Key: plantain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318019756240896
+    m_Key: bandage
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4247266430908366861
+  references:
+    version: 2
+    RefIds:
+    - rid: 4247266430908366861
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1723729204757

@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Comments Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Comments
+  m_TableCollectionNameGuidString: 567a9554f2c44ba4f82d2c2c71da0244
+  m_Entries:
+  - m_Id: 10562022551552
+    m_Key: man1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10586190131200
+    m_Key: man2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10597892239360
+    m_Key: woman1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10611817328640
+    m_Key: woman2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10636765048832
+    m_Key: ak47
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10656549580800
+    m_Key: crossbow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10677365911552
+    m_Key: bazooka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10730004426752
+    m_Key: desertEagle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10752741748736
+    m_Key: dragunov
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10804524625920
+    m_Key: m16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10818500046848
+    m_Key: m40
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10840079740928
+    m_Key: revolver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10855024046080
+    m_Key: shotgun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10871717376000
+    m_Key: vector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14118205140992
+    m_Key: axe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14216699981824
+    m_Key: bigSword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14246324350976
+    m_Key: glaive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14272354201600
+    m_Key: hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14291840937984
+    m_Key: katana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14307120787456
+    m_Key: knife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14321511444480
+    m_Key: longSword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14346740183040
+    m_Key: morningStar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14384136597504
+    m_Key: scythe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14406748090368
+    m_Key: swordOfSun
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4247266430908366856
+  references:
+    version: 2
+    RefIds:
+    - rid: 4247266430908366856
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1723728273931
